@@ -1,0 +1,47 @@
+[
+    {
+        "author": "CryptoEmpire",
+        "id": "cryptoempire",
+        "title": "CryptoEmpire: Match-3 Battle",
+        "logo": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/marketplace-logos/cryptoempire.png",
+        "logoDarkMode": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/marketplace-logos/cryptoempire.png",
+        "categories": [
+            "NFT & Games"
+        ],
+        "shortDescription": "Play Match-3 Puzzle, Battle and Collect!",
+        "site": "https://cryptoempire.games/",
+        "description": "Play Match-3 Puzzle, Battle and Collect!",
+        "url": "https://cryptoempire.games/",
+        "external": false
+    },
+    {
+        "author": "POKAVZ",
+        "id": "w3poker",
+        "title": "POKAVZ ♠️ W3POKER",
+        "logo": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/marketplace-logos/pokavz-w3poker.png",
+        "logoDarkMode": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/marketplace-logos/pokavz-w3poker.png",
+        "categories": [
+            "NFT & Games"
+        ],
+        "shortDescription": "POKAVZ ♠️ W3POKER is a poker metaverse game created for all card game lovers with the goal of bettering the virtual poker gaming world.",
+        "site": "https://pokavz.com/",
+        "description": "POKAVZ ♠️ W3POKER is a poker metaverse game created for all card game lovers with the goal of bettering the virtual poker gaming world.",
+        "url": "https://pokavz.com/",
+        "external": false
+    },
+    {
+        "author": "DEBEATS",
+        "id": "debeats",
+        "title": "DEBEATS",
+        "logo": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/marketplace-logos/debeats.svg",
+        "logoDarkMode": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/marketplace-logos/debeats.svg",
+        "categories": [
+            "NFT, Music & Games"
+        ],
+        "shortDescription": "DEBEATS is the first decentralized music NFT game where you can play, create and earn. By connecting music NFT to rhythm games, DEBEATS lets you map out the beats of all music and earn from your own beatmap NFTs, taking music games to Web3.0 by returning ownership to the creators.",
+        "site": "https://debeats.com/",
+        "description": "DEBEATS is the first decentralized music NFT game where you can play, create and earn. By connecting music NFT to rhythm games, DEBEATS lets you map out the beats of all music and earn from your own beatmap NFTs, taking music games to Web3.0 by returning ownership to the creators.",
+        "url": "https://debeats.com/",
+        "external": false
+    }
+]

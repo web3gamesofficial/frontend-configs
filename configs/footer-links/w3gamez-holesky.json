@@ -1,0 +1,40 @@
+[
+    {
+        "title": "About",
+        "links": [
+            {
+                "text": "W3G Token",
+                "url": "https://web3games.com/w3g-token"
+            },
+            {
+                "text": "Whitepaper",
+                "url": "https://whitepaper.web3games.com/"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/web3gamesofficial"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Twitter",
+                "url": "https://x.com/web3games"
+            },
+            {
+                "text": "Discord",
+                "url": "https://discord.gg/web3games"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/web3gamesofficial"
+            },
+            {
+                "text": "Medium",
+                "url": "https://web3games.medium.com/"
+            }
+        ]
+    }
+]

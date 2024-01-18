@@ -1,0 +1,14 @@
+[{
+		"title": "W3Gamez",
+		"url": "https://explorer.w3gamez.network/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/network-icons/w3gamez.svg"
+	},
+	{
+		"title": "W3Gamez Holesky",
+		"url": "https://explorer-holesky.w3gamez.network/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/network-icons/w3gamez.svg",
+		"isActive": true
+	}
+]
