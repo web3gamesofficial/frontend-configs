@@ -1,9 +1,4 @@
-[{
-		"title": "W3Gamez",
-		"url": "https://w3gamez.web3games.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/web3gamesofficial/frontend-configs/main/configs/network-icons/w3gamez.svg"
-	},
+[
 	{
 		"title": "W3Gamez Holesky",
 		"url": "https://w3gamez-holesky.web3games.com/",
